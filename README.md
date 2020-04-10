@@ -2,7 +2,7 @@
 
 # OT가 끝난 직후 한통의 [**메일**](https://github.com/joshua-dev/kakao-cafe/blob/master/com/kakao/cafe/README.md)을 받게 되는데...
 
-[![thumbnail](https://t1.daumcdn.net/tvpot/thumb/v0431dmoadPdi6PH44oFHci/thumb.png?time=1490071671642)](https://joshua-dev.github.io/kakao-cafe/)
+[![thumbnail](https://t1.daumcdn.net/tvpot/thumb/v0431dmoadPdi6PH44oFHci/thumb.png?time=1490071671642)](https://boyzmsc.github.io/kakao-cafe/)
 
 <br>
 
